@@ -1,0 +1,30 @@
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #ffdb58;
+    background-position: center;
+    background-repeat: repeat;
+    color: #08e8de;
+    font-size: 12px;
+    overflow: auto;
+}
+#privet {
+    width: 200%;
+    height: 70%;
+    color: #ee204d;
+    min-height: 100%;
+    position: absolute;
+    transform: rotate(37deg);
+    font-family: "Trebuchet MS", "Helvetica CY", "Luxi Sans", sans-serif;
+}
+
+
+
+body {
+    width: 200%;
+    height: 70%;
+    min-height: 100%;
+    position: absolute;
+    font-family: "Trebuchet MS", "Helvetica CY", "Luxi Sans", sans-serif;
+}
